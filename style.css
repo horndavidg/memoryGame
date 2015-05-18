@@ -1,0 +1,40 @@
+body {
+	
+	background: #35F5FF;
+	margin-left: 30%;
+    margin-right: 16%;
+    padding-bottom: 15%;
+}
+
+h1 {
+	
+	text-align: auto;
+	font-family: cursive;
+}
+
+h2 {
+	
+	text-align: auto;
+	font-family: cursive;
+}
+
+
+div {
+
+	width: 20%;
+	background: white;
+	float: left;
+	border: 3px solid black;
+	padding-bottom: 16%;
+	
+	}
+
+table {
+
+	margin: auto;
+}
+
+button {
+
+	float; left;
+}
